@@ -2,7 +2,7 @@
 id: YEQ35yp42E5V3BSK0y7Lp
 title: Concept
 desc: ''
-updated: 1643742907535
+updated: 1643744567390
 created: 1643675192047
 ---
 *last updated {{fm.updated}}*
@@ -29,5 +29,3 @@ Location are:
 - With other campers
 
 Each person will have a "description" of them in a submenu, that will hint at their current location as well as their personality.
-
-[[Back|root]]

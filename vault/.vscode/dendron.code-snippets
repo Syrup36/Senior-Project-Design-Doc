@@ -16,5 +16,11 @@
         "scope": "markdown,yaml",
         "body": "$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE",
         "description": "time"
+    },
+    "lastupdate":{
+        "prefix": "last",
+        "scope": "markdown,yaml",
+        "body": "*last updated {{fm.updated}}*",
+        "description": "displays when the file was last modified"
     }
 }
