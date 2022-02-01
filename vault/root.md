@@ -16,5 +16,5 @@ This is a design document, intended to outline the design of my senior project.
 - [[engine]]
 - [[systems]]
 - [[art]]
-- [[music]]
+- [[audio]]
 - [[programming]]
