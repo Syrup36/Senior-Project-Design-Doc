@@ -2,7 +2,7 @@
 id: HWrtgiodOlHQRimHlYaMF
 title: Systems
 desc: ''
-updated: 1643744586995
+updated: 1643813510171
 created: 1643737940449
 ---
 *last updated {{fm.updated}}*
@@ -15,13 +15,13 @@ Core gameplay would be a top-down, 3D "platformer." Movement is currently analog
 The flow of the game, from start to finish, is modeled below:
 ```mermaid
     flowchart TB;
-        A[Intro Cutscene]-->B[Tutorial];
+        A>Intro Cutscene]-->B[Tutorial];
         B-->C{Player Explores};
         C-->D[Player finds a Friend];
         D-->E[Player talks to the Friend];
         E-->C;
-        C-->|Once All Friends are Found|F[Final Cutscene];
-        F-->G[End Credits];     
+        C-->|Once All Friends are Found|F>Final Cutscene];
+        F-->G>End Credits];     
 ```
 
 Exploring the world could consist of small, non-punishing platforming sections as well as a few small puzzles (potentially, I'm still thinking about this).
