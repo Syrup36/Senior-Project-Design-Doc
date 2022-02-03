@@ -2,7 +2,7 @@
 id: BmaZCqdjubhtlG8SMkjs0
 title: Audio
 desc: ''
-updated: 1643748810061
+updated: 1643917359688
 created: 1643737950129
 ---
 *last updated {{fm.updated}}*
@@ -11,6 +11,13 @@ created: 1643737950129
 I plan to make the music for the game with [Ableton Live](https://www.ableton.com/en/live/). In Music Theory, we use a program called [Noteflight](https://www.noteflight.com/) to compose songs, and I may end up using compositions I made in class that are on there.
 
 > TODO: Add possible composition from Noteflight (must be rendered)
+
+There will be 4-ish total tracks:
+- One for the title screen
+- One for the intro cutscene (subject to change)
+> It's possible to reuse one of these for the outro Possible to
+- One for the main world
+- One for any subworlds
 
 ## Voice Acting
 The game will have no voice acting.
