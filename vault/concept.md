@@ -2,7 +2,7 @@
 id: YEQ35yp42E5V3BSK0y7Lp
 title: Concept
 desc: ''
-updated: 1643813818611
+updated: 1644201674400
 created: 1643675192047
 ---
 *last updated {{fm.updated}}*
@@ -27,5 +27,6 @@ Location are:
 - Near a waterfall
 - Under a tree outside
 - With other campers
+- Alone (?), surrounded by books/work
 
 Each person will have a "description" of them in a submenu, that will hint at their current location as well as their personality.

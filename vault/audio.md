@@ -2,7 +2,7 @@
 id: BmaZCqdjubhtlG8SMkjs0
 title: Audio
 desc: ''
-updated: 1643917648005
+updated: 1644202013316
 created: 1643737950129
 ---
 *last updated {{fm.updated}}*
@@ -10,7 +10,8 @@ created: 1643737950129
 ## Music
 I plan to make the music for the game with [Ableton Live](https://www.ableton.com/en/live/). In Music Theory, we use a program called [Noteflight](https://www.noteflight.com/) to compose songs, and I may end up using compositions I made in class that are on there.
 
-> TODO: Add possible composition from Noteflight (must be rendered)
+> [Link to Sample Music Track.](https://drive.google.com/file/d/1JCUYQZtnYx9GCHkMTQVqwWPfJy4wlD-f/view?usp=sharing)
+Note that this was rendered directly from Noteflight and thus is only an unmastered MIDI rendition.
 
 There will be 4-ish total tracks:
 - One for the title screen
