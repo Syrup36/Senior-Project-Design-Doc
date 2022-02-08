@@ -2,7 +2,7 @@
 id: HWrtgiodOlHQRimHlYaMF
 title: Systems
 desc: ''
-updated: 1644263302049
+updated: 1644329581156
 created: 1643737940449
 ---
 *last updated {{fm.updated}}*
@@ -30,4 +30,40 @@ Exploring the world could consist of small, non-punishing platforming sections a
 
 As this game is meant to be a medium for me to display my findings, I am aiming for the game to be completely approachable for novice/casual players. There are no current plans for other difficulties.
 
-The game is meant to be a completely relaxing experience, though there may be optional challenges available. There is no way to lose the game - there are no lives, there is no punishment for falling off obstacles, and there are no penalties for taking your time.
+The game is meant to be a completely relaxing experience, though ~~there may be optional challenges available~~. 
+> *(Update: There will be none. Developing these "challenges" would take too much time)*
+
+There is no way to lose the game - there are no lives, there is no punishment for falling off obstacles, and there are no penalties for taking your time.
+
+## World/Map Design
+
+The graph below is a hypothetical map of the play area:
+
+```mermaid
+    flowchart LR
+
+    subgraph Campsites
+        direction LR
+        C[Campsite/Player Spawn]---O[Other Campsite]
+    end
+
+    subgraph Lake
+        direction TB
+        L[Lake]---W[Waterfall]
+        L---CA[Cave]
+    end
+
+    subgraph Woods
+        direction TB
+        F[Forrest]
+    end
+
+    subgraph Trail
+        direction TB
+        H[Hiking Trail]---I[Top of Hill]
+    end
+
+    Woods---Campsites
+    Lake---Campsites
+    Campsites---Trail
+```
