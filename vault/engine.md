@@ -2,7 +2,7 @@
 id: Pq24LD7vyJMcTjsobiptk
 title: Engine
 desc: ''
-updated: 1643743120364
+updated: 1644333133331
 created: 1643676627502
 ---
 *last updated {{fm.updated}}*
@@ -10,3 +10,9 @@ created: 1643676627502
 To create the game, I will be using the [Unity](https://unity.com/) game engine. It is an engine that I have years of experience in.
 
 Unity has built in physics/collision and handles 3D graphics, audio, UI, and input. It uses the C# language (which I also have years of experience in).
+
+The game will use the Unity's new, event-based input system.
+
+I have made games/applications in Unity before. Below are some images from my Tech Integration III (Help Desk) final project from last semester (which was made with Unity):
+
+> TODO: Add images from VR Appliction

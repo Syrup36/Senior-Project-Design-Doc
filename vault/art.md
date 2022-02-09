@@ -2,7 +2,7 @@
 id: HTAUxWlHBnNkYOOiCN6Eo
 title: Art
 desc: ''
-updated: 1644332213787
+updated: 1644342746409
 created: 1643737944911
 ---
 *last updated {{fm.updated}}*
@@ -20,7 +20,7 @@ Colors will stick to a specific color palette:
 >TODO: Insert Images of 3D Models Here
 
 ## Post Processing
-Post processing will be applied as needed. I don't know much about color grading, but I assume some of it will be necessary.
+Post processing will be applied as needed. I don't know much about color grading, but I assume some of it will be necessary. I may try to go for a "warmer" tone, though I am not sure.
 
 ## Animations
 Since I don't have much experience with animating objects (but still feel confident in my abilities), the game will have a few animations:
@@ -36,10 +36,11 @@ Characters facial expressions will either be additional textures or seperate mod
 ```CS
 void OnDialogueDisplay() 
 {
-    if(transform.children[0].name == dialogue.requiredExpression)
+    if(transform.children[0].name == dialogueObject.requiredExpression)
     {
         //Replace Facial Expression
     }
+    return;
     //Don't replace transform/texture if expression remains the same, to save on resources.
 }
 ```
