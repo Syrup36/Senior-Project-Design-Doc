@@ -2,7 +2,7 @@
 id: TVfhhKDb6PGzxqhOGR1QK
 title: Development Plan
 desc: ''
-updated: 1644851625017
+updated: 1644853859582
 created: 1644850919212
 ---
 *last updated {{fm.updated}}*
@@ -11,13 +11,13 @@ Modeling the schedule that I will try to stick to as best as I can:
 
 ## Daily Tasks:
 - Back up project files to GitHub
-- Back up .blend, .fbx, .ogg to external system (Google Drive)
+- Back up all external assets (.blend, .fbx, .ogg, .png etc.) to external system (Google Drive Folder)
 
 
 ## Schedule:
 Mon-Fri 2-14 - 2-18:
 - Create character model(s)
-- Figure out art style (for all assets)
+- Figure out art style/color palette (for all assets)
 - Complete all necessary pre-development materials
 
 Saturday 2-19:
