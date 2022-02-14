@@ -2,7 +2,7 @@
 id: YEQ35yp42E5V3BSK0y7Lp
 title: Concept
 desc: ''
-updated: 1644812321188
+updated: 1644850873107
 created: 1643675192047
 ---
 *last updated {{fm.updated}}*
@@ -23,7 +23,7 @@ It is the start of the first (and final) day of the trip. The player wakes up la
 The game takes place in a forrest-esque location. The aim is for it to look nice.
 
 Each person is "hidden" away in a different location. Upon finding them, the person found will tell you why they like each location.
-Location are:
+Possible locations are:
 - Near a waterfall
 - Under a tree outside
 - With other campers
@@ -31,6 +31,7 @@ Location are:
 - In a cave
 - At the top of a hill
 - Resting on a hiking trail
+> These locations / names are subject to change as I develop the game
 
 Each person will have a "description" of them in a submenu, that will hint at their current location as well as their personality.
 

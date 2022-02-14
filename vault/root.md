@@ -2,7 +2,7 @@
 id: AFIeMvxLzHIXxVAEB6hQ5
 title: Nigel's Senior Project - Design Document
 desc: ''
-updated: 1644812664307
+updated: 1644851830867
 created: 1643659392280
 ---
 *last updated {{fm.updated}}*
@@ -17,3 +17,4 @@ This is a design document, intended to outline the design of my senior project.
 - [[art]]
 - [[audio]]
 - [[programming]]
+- [[development-plan]]

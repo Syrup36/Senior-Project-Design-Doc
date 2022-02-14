@@ -2,16 +2,18 @@
 id: HTAUxWlHBnNkYOOiCN6Eo
 title: Art
 desc: ''
-updated: 1644812918709
+updated: 1644851724345
 created: 1643737944911
 ---
 *last updated {{fm.updated}}*
 
 ## Tools
-All 3D models will be create in [Blender](https://www.blender.org/), while all 2D assets will be created either in [Inkscape](https://inkscape.org/), [GIMP 2](https://www.gimp.org/), or [Aseprite](https://www.aseprite.org/). [Krita](https://krita.org/en/) may also be used (most likely for texture painting), though I don't have much experience in it.
+All 3D models will be create in [Blender](https://www.blender.org/), while all 2D assets will be created either in [Inkscape](https://inkscape.org/), [GIMP 2](https://www.gimp.org/), or [Aseprite](https://www.aseprite.org/).
 
 ## Style
-The game will be in a **low-poly style**. I have the most experience creating and rigging low-poly models, so this choice should streamline asset creation. Using a more simple style will also allow assets to be much smaller in size, demand less rendering resources, and will thus make the game able to be run on a wide variety of devices. 
+The game will be in a **low-poly style**. I have the most experience creating and rigging low-poly models, so this choice should streamline asset creation. Using a more simple style will also allow assets to be much smaller in size, demand less rendering resources, and will thus make the game able to be run on a wide variety of devices.
+
+To make development easier, the UI will follow a more minimal design. This makes it easier to go from a UI prototype to the final product, as new assets generally won't have to be created.
 
 Colors will stick to a specific color palette:
 
