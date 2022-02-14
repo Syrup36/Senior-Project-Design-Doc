@@ -2,7 +2,7 @@
 id: Pq24LD7vyJMcTjsobiptk
 title: Engine
 desc: ''
-updated: 1644333133331
+updated: 1644812583739
 created: 1643676627502
 ---
 *last updated {{fm.updated}}*
@@ -13,6 +13,4 @@ Unity has built in physics/collision and handles 3D graphics, audio, UI, and inp
 
 The game will use the Unity's new, event-based input system.
 
-I have made games/applications in Unity before. Below are some images from my Tech Integration III (Help Desk) final project from last semester (which was made with Unity):
-
-> TODO: Add images from VR Appliction
+I have made games/applications in Unity before. Just this year, I made a VR application for my Tech Integration III (Help Desk) final project using Unity.

@@ -2,7 +2,7 @@
 id: HTAUxWlHBnNkYOOiCN6Eo
 title: Art
 desc: ''
-updated: 1644342746409
+updated: 1644812918709
 created: 1643737944911
 ---
 *last updated {{fm.updated}}*
@@ -20,7 +20,7 @@ Colors will stick to a specific color palette:
 >TODO: Insert Images of 3D Models Here
 
 ## Post Processing
-Post processing will be applied as needed. I don't know much about color grading, but I assume some of it will be necessary. I may try to go for a "warmer" tone, though I am not sure.
+Post processing will be applied as needed. I don't know much about color grading, but I assume some of it will be necessary.
 
 ## Animations
 Since I don't have much experience with animating objects (but still feel confident in my abilities), the game will have a few animations:
@@ -31,7 +31,7 @@ Since I don't have much experience with animating objects (but still feel confid
 
 Characters facial expressions will either be additional textures or seperate models.
 
->Below is sample code that I create on the spot and wanted to write down for the future. It can be ignored
+>Below is sample code that I create on the spot and wanted to write down for the future. Please ignore it.
 
 ```CS
 void OnDialogueDisplay() 

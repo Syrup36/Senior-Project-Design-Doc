@@ -2,7 +2,7 @@
 id: HWrtgiodOlHQRimHlYaMF
 title: Systems
 desc: ''
-updated: 1644329634793
+updated: 1644812357006
 created: 1643737940449
 ---
 *last updated {{fm.updated}}*
@@ -23,8 +23,6 @@ The flow of the game, from start to finish, is modeled below:
         C-->|Once All Friends are Found|F>Final Cutscene];
         F-->G>End Credits];     
 ```
-
-Exploring the world could consist of small, non-punishing platforming sections as well as a few small puzzles (potentially, I'm still thinking about this).
 
 ## Difficulty
 

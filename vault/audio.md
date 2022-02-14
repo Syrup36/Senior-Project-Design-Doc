@@ -2,7 +2,7 @@
 id: BmaZCqdjubhtlG8SMkjs0
 title: Audio
 desc: ''
-updated: 1644202013316
+updated: 1644812805940
 created: 1643737950129
 ---
 *last updated {{fm.updated}}*
@@ -16,14 +16,11 @@ Note that this was rendered directly from Noteflight and thus is only an unmaste
 There will be 4-ish total tracks:
 - One for the title screen
 - One for the intro cutscene (subject to change)
-> It's possible to reuse one of these for the outro Possible to
+> It's possible to reuse one of these for the outro
 - One for the main world
-- One for any subworlds
-
-## Voice Acting
-The game will have no voice acting.
+- One for any 'subworlds'
 
 ## Sound Effects
-Sound effects will be recorded by myself. They are typically made by using sounds from object strewn throughoug my house, and then the raw audio is edited with something like [Audacity](https://www.audacityteam.org/). Sound effects will most likely be minimal. They may include:
+Sound effects will be recorded by myself. They are typically made by using sounds from object strewn throughougt my house, and then the raw audio is edited with something like [Audacity](https://www.audacityteam.org/). Sound effects will most likely be minimal. They may include:
 - Dialogue "noises" (in lieu of voice acting)
 - Movement sound effects (noises for walking, jumping, etc.)

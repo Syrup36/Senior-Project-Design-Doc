@@ -2,7 +2,7 @@
 id: YEQ35yp42E5V3BSK0y7Lp
 title: Concept
 desc: ''
-updated: 1644332428382
+updated: 1644812321188
 created: 1643675192047
 ---
 *last updated {{fm.updated}}*
@@ -33,3 +33,5 @@ Location are:
 - Resting on a hiking trail
 
 Each person will have a "description" of them in a submenu, that will hint at their current location as well as their personality.
+
+Talking to each person will reveal what they personally enjoy about the camping trip. Some friends will also talk about the specific area they are in. They will talk a bit about their lives before the trip as well.
