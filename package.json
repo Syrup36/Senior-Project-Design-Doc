@@ -1,0 +1,23 @@
+{
+  "name": "senior-project-design-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syrup36/Senior-Project-Design-Doc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syrup36/Senior-Project-Design-Doc/issues"
+  },
+  "homepage": "https://github.com/Syrup36/Senior-Project-Design-Doc#readme",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.81.0"
+  }
+}
